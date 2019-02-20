@@ -1,0 +1,5 @@
+task2/include
+task2/build
+catkin_ws/build
+catkin_ws/install
+catkin_ws/devel

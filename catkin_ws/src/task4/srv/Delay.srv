@@ -1,0 +1,5 @@
+#request constants
+int64 Delay_s
+---
+#response constants
+string Time
