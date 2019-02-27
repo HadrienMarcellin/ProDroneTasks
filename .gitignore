@@ -3,3 +3,4 @@ task2/build
 catkin_ws/build
 catkin_ws/install
 catkin_ws/devel
+PCL_Tuto/build
